@@ -1,3 +1,5 @@
+#encoding: utf-8
+
 # This is a template for a Ruby scraper on Morph (https://morph.io)
 # including some code snippets below that you should find helpful
 
